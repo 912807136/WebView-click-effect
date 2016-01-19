@@ -22,7 +22,7 @@ public class CommonUtil {
 				.cacheInMemory(true).cacheOnDisk(true).considerExifParams(true)
 				.displayer(new FadeInBitmapDisplayer(1000, true, true, false));
 		return builder;
-	}
+	} 
 
 
 
